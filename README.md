@@ -1,11 +1,11 @@
 ### Hi there 👋, Welcome
 #### I am Blockchain Engineer
 
-- 👋 Hi, I’m @blocock
+- 👋 Hi, I’m @blockiris910
 - 👀 I’m interested in composability and scalability in blockchain ecosystem
 - 🌱 I’m currently learning consensus mechanism
 - 💞️ I’m looking to collaborate on any idea to boost chain-linked eco
-- 📫 How to reach me: amaupin876@gmail.com
+- 📫 How to reach me: derrick.d.lewis312@gmail.com
 
 #### Technologies
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
